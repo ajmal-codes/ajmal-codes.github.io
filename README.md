@@ -2,9 +2,9 @@
 
 <div align="left">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://ajmal-codes.github.io/ajmal-codes)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://ajmal-codes.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/ajmal-codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](undefined)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammed-ajmal-307273185/)
 
 </div>
 
@@ -35,9 +35,9 @@ The live portfolio includes detailed professional experience, technical skills a
 
 Let's connect and build something amazing together!
 
-- 🌐 **Portfolio**: [https://ajmal-codes.github.io/ajmal-codes](https://ajmal-codes.github.io/ajmal-codes)
+- 🌐 **Portfolio**: [https://ajmal-codes.github.io/](https://ajmal-codes.github.io/)
 - 💻 **GitHub**: [https://github.com/ajmal-codes](https://github.com/ajmal-codes)
-- 🔗 **LinkedIn**: [undefined](undefined)
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/muhammed-ajmal-307273185/](https://www.linkedin.com/in/muhammed-ajmal-307273185/)
 
 ---
 
