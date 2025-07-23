@@ -61,17 +61,49 @@
     "title": "Professional Experience",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
+        "company": "Nuox Technologies",
+        "role": "Front-end Develoepr",
+        "date": "September 2023 - Present",
         "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
+          "Developed and maintained responsive, high-performance web applications using React.js, Next.js, and TypeScript.",
+          "Implemented dynamic UIs with Tailwind CSS and integrated component libraries like MUI and Radix UI for consistency and accessibility.",
+          "Worked on multilingual support and SEO optimization strategies using Next.js features like server-side rendering and dynamic routing.",
+          "Built reusable components and optimized state management using tools like Zustand and Redux Toolkit.",
+          "Integrated RESTful APIs and third-party services (e.g., trading platforms, CMS systems) into frontend architecture.",
+          "Collaborated with backend developers and designers to deliver pixel-perfect implementations from Figma/Adobe XD mockups.",
+          "Improved frontend performance through lazy loading, code-splitting, and Lighthouse audits, achieving up to 30% faster page load times.",
+          "Contributed to enterprise-level projects like 'Dubai & Beyond' and 'Noor Capital', focusing on complex data visualizations and user dashboard experiences."
         ],
-        "logo": "assets/logos/Placeholder_Logo.png",
-        "logo_dark": "assets/logos/Placeholder_Logo.png"
+        "logo": "assets/logos/nuox_logo.jpeg",
+        "logo_dark": "assets/logos/nuox_logo.jpeg"
+      },
+      {
+        "company": "Vitez Software",
+        "role": "Front-end Developer",
+        "date": "February 2022 - August 2023",
+        "responsibilities": [
+          "Worked on multiple client-facing React.js and Django applications, focusing on modular and maintainable codebases.",
+          "Created responsive UI components using CSS, Bootstrap and integrated with backend services via RESTful APIs.",
+          "Collaborated in agile teams to deliver feature updates and bug fixes on a biweekly sprint cycle.",
+          "Integrated third-party services like authentication (NextAuth.js) and form validation libraries (React Hook Form).",
+          "Enhanced application performance by optimizing rendering logic and reducing bundle size.",
+          "Participated in peer code reviews and contributed to improving project architecture and best practices.",
+          "Maintained documentation for components and assisted junior developers in understanding project workflows."
+        ],
+        "logo": "assets/logos/vitez_logo.jpeg",
+        "logo_dark": "assets/logos/vitez_logo.jpeg"
+      },
+      {
+        "company": "Quest Innovative Solutions",
+        "role": "Python Full-stack Developer Intern",
+        "date": "August 2021 - January 2022",
+        "responsibilities": [
+          "Built and maintained 3 CRUD-based web applications using Angular for frontend and Django for backend, handling 1,000+ daily transactions.",
+          "Created 10+ RESTful APIs and integrated them with Angular components to reduce data load time by 50%.",
+          "Designed responsive layouts and forms with Bootstrap and HTML5, achieving 98% mobile compatibility."
+        ],
+        "logo": "assets/logos/quest_logo.jpeg",
+        "logo_dark": "assets/logos/quest_logo.jpeg"
       }
     ]
   },
@@ -81,10 +113,12 @@
       {
         "name": "Programming Languages & Technologies",
         "items": [
+          "NextJS",
+          "ReactJS",
           "JavaScript",
+          "TypeScript",
           "Python",
-          "Java",
-          "TypeScript"
+          "Django"
         ]
       },
       {
@@ -92,8 +126,7 @@
         "items": [
           "Git",
           "GitHub",
-          "VS Code",
-          "Docker"
+          "VS Code"
         ]
       },
       {
