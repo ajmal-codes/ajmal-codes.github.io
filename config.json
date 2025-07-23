@@ -1,7 +1,7 @@
 {
   "features": {
     "about": true,
-    "projects": true,
+    "projects": false,
     "experience": true,
     "skills": true,
     "github_projects": true
